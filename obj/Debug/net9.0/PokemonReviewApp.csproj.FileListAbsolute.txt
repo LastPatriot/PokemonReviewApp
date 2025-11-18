@@ -193,3 +193,4 @@
 /Users/opeyemioluwadare/Documents/projects/learning/APIs/WebAPIDemo/PokemonReviewApp/bin/Debug/net9.0/Microsoft.DotNet.PlatformAbstractions.dll
 /Users/opeyemioluwadare/Documents/projects/learning/APIs/WebAPIDemo/PokemonReviewApp/bin/Debug/net9.0/AutoMapper.dll
 /Users/opeyemioluwadare/Documents/projects/learning/APIs/WebAPIDemo/PokemonReviewApp/bin/Debug/net9.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/opeyemioluwadare/Documents/projects/learning/APIs/WebAPIDemo/PokemonReviewApp/obj/Debug/net9.0/PokemonReviewApp.sourcelink.json
